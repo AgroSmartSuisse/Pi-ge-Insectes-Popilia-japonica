@@ -1,1 +1,1 @@
-ce dossier pour tests foncsionalités
+Ce dossier est une espace servante à contenir différents éléments en cours de développement et de test...Denis Pasquier (pade)
